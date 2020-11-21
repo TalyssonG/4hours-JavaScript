@@ -14,5 +14,5 @@ console.log('São',hora,' Horas Boa tarde');
 }
 
 else{
-    console.log('São',hora,'Horas Boa noite')
+console.log('São',hora,'Horas Boa noite')
 }
