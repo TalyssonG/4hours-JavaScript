@@ -8,23 +8,19 @@
 
 //10 - 1,2,4,6,10
 
-//exibirNumerosPrimos(20);
-//function exibirNumerosPrimos(limite){
-
-/*
-    for(let i = 2; i <= limite; i++){
-        let ehPrimo = true;
-
+exibirNumerosPrimos(20);
+function exibirNumerosPrimos(limite){
+    for(let i = 2; i <= limite; i++){    
+       if(NumeroPrimo(i)) console.log(i);
+    }
+  }
+    function NumeroPrimo(i){
         for(let divisor = 2; divisor < i; divisor++){
           if(i % divisor === 0){
-            ehPrimo = false;
-            break;
+            return false;
+            
           }
         }
+        return true;
+    }
 
-    
-    if(ehPrimo)
-    console.log(i);
-}
-}
-*/

@@ -1,6 +1,6 @@
 // Função
 // Verbo + Substantivo
-/*
+
 let corSite = "azul";
 function resetaCor(cor,tonalidade){
     corSite= cor +' '+tonalidade;
@@ -9,10 +9,10 @@ function resetaCor(cor,tonalidade){
 console.log(corSite);
 resetaCor("verde","claro");
 console.log(corSite)
-*/
+
 
 //Primeira prática
-/*
+
 let saborPizza = "Calabresa";
 function novoSabor(sabor, recheada){
   saborPizza= sabor + recheada;
