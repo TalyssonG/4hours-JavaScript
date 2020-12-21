@@ -3,7 +3,7 @@
 //Criar dois objetos e comparar
 
 function Endereco(rua, cidade, cep) {
-    this.rua = rua,
+        this.rua = rua,
         this.cidade = cidade,
         this.cep = cep
 
