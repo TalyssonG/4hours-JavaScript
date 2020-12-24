@@ -31,6 +31,7 @@ console.log(numeros.includes(5)); //False
 
 //Encontrando elementos tipos de referência-------------------------------
 */
+
 const marcas = [
 
     {id:1, nome: 'Talysson'},
@@ -45,3 +46,5 @@ const marca = marcas.find(function(marca){
 console.log(marca);
 
 //Arrow Functions
+
+

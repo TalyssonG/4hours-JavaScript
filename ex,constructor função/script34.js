@@ -11,6 +11,7 @@ function Postagem (titulo,mensagem, autor){
     this.comentarios = [
     
     ],
+    
     this.estaAovivo = false
 }
 
