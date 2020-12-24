@@ -15,12 +15,6 @@ numeros.push(5);
 console.log(numeros);
 */
 
-//--------------------------
-//Remover Elementos
-//Dvidir elementos
-//Dividir Arrays
-//Combianr arrays
-
 
 //Encontrando elementos(primitivos)----------------------------
 /*
