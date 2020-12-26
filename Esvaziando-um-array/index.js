@@ -16,3 +16,4 @@ console.log(numeros)
 //solução 4
 while (numeros.length > 0) 
 numeros.pop()
+
