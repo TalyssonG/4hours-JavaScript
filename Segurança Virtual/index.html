@@ -4,22 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Segurança Virtual</title>
+    <script src="project.js"></script>
 </head>
 <body>
     
     <h1>Festa VIP</h1>
     <h2>Bem vindo a festa senhor(a):</h2>
 
-    <input type="text" placeholder= "Digite seu nome">
+    <input type="text" id="nome" placeholder= "Digite seu nome">
 
     <h1>Quem te convidou para essa festa?</h1>
 
-    <input type="text" placeholder = "quem te convidou?"> 
-    <input type="submit" value="Verificar se posso entrar">
+    <input type="text" id="convidadoPor" placeholder = "quem te convidou?"> 
+    <button onclick="VerificarEntrada()">Verificar se posso entrar</button>
 
     <h1>Você está permitido a entrar?</h1>
 
-    <p>Pesquisando...</p>
-
+    <label for="" id="PermissaoDeEntrada">Pesquisando...</label>
+   
 </body>
 </html>
