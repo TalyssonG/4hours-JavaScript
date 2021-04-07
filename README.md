@@ -21,7 +21,7 @@ Grade do curso:
 14 - Comparações não boleanos<br>
 15 - (Mini-Projeto 1) - Trocando Valores de Variáveis<br>
 16 - If..Else<br>
-17 - Switch..Case<br>
+17 - Switch.Case<br>
 18 - Laço For/Loop For<br>
 19 - Laço While/Loop While<br>
 20 - Laço Do..While/Loop Do.. While<br>
