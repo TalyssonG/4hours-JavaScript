@@ -7,7 +7,7 @@ Grade do curso:
 <p> Variáveis
 1 - Constantes <br>
 2 - Tipos Primitivos <br>
-3 - Tipagem Dinâmica no Javascript            <br>
+3 - Tipagem Dinâmica no Javascript         <br>
 4 - Objetos <br>
 5 - Arrays <br>
 6 - Functions <br>
